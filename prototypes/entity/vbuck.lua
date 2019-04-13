@@ -45,14 +45,14 @@ data:extend({{
 			},
 			{
 				filename = "__VBucks__/graphics/vbuck_shadow.png",
-				width = 160,
-				height = 160,
+				width = 128,
+				height = 128,
 				scale = 0.25,
 				draw_as_shadow = true,
 				hr_version = {
 					filename = "__VBucks__/graphics/vbuck_shadow.png",
-					width = 160,
-					height = 160,
+					width = 128,
+					height = 128,
 					scale = 0.5,
 					draw_as_shadow = true,
 				}
